@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rabea Hinsching"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: tracker.qmd
+        text: CSI Tracker
+    right:
+    - icon: github
+      href: https://github.com/rabeahinsching
+    - icon: linkedin
+      href: https://www.linkedin.com/in/rabea-hinsching-03a186157
+    - icon: envelope
+      href: mailto:rabea.hinsching@web.de
+    
+format:
+  html:
+    theme: flatly
+    toc: false
+    css: styles.css
+

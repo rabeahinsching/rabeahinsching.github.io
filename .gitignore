@@ -1,0 +1,18 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Quarto temporary files
+.quarto/
+_site/
+
+# Local/private files
+CV_short.pdf
+WebsiteNames.rtf
+eco_sentences.txt

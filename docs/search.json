@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "You can view my CV below, or download it here"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "You can view my CV below, or download it here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "I am a PhD candidate in Economics at the University of East Anglia. My research focuses on corporate social responsibility in the mining sector, resource governance, and local development. You can find my CV here.\nI work primarily with quantitative methods, using quasi-experimental approaches to identify causal effects. However, I am also a strong proponent of interdisciplinary research. My work is often inspired by perspectives from sociology and political economy, particularly in understanding how local institutions, narratives, and power structures shape development outcomes.\nMy job market paper examines the developmental impact of mining companies’ social investments in South Africa’s Gauteng Province. You can find the latest draft here.\nAs part of my research, I collected data on mining companies’ social investments from corporate reports using a GPT-based algorithm. The code for the project is available on my GitHub. I am currently developing this dataset into a publicly accessible project tracker. An early version is available on this website under “CSI Tracker.”"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "I am a PhD candidate in Economics at the University of East Anglia. My research focuses on corporate social responsibility in the mining sector, resource governance, and local development. You can find my CV here.\nI work primarily with quantitative methods, using quasi-experimental approaches to identify causal effects. However, I am also a strong proponent of interdisciplinary research. My work is often inspired by perspectives from sociology and political economy, particularly in understanding how local institutions, narratives, and power structures shape development outcomes.\nMy job market paper examines the developmental impact of mining companies’ social investments in South Africa’s Gauteng Province. You can find the latest draft here.\nAs part of my research, I collected data on mining companies’ social investments from corporate reports using a GPT-based algorithm. The code for the project is available on my GitHub. I am currently developing this dataset into a publicly accessible project tracker. An early version is available on this website under “CSI Tracker.”"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "I teach undergraduate and masters courses, and teach for the brilliant club, a charity etc etc.\n\n\nDescription here\n\n\n\nDescription here\n\n\n\nDescription here. Coursebook here."
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "I teach undergraduate and masters courses, and teach for the brilliant club, a charity etc etc.\n\n\nDescription here\n\n\n\nDescription here\n\n\n\nDescription here. Coursebook here."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "Resource Economics\n\nCorporate Social Investment (CSI)\n\nMining and Local Development\n\nApplied Econometrics\n\nInterdisciplinary Research\n\nDevelopment Policy Evaluation"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "Resource Economics\n\nCorporate Social Investment (CSI)\n\nMining and Local Development\n\nApplied Econometrics\n\nInterdisciplinary Research\n\nDevelopment Policy Evaluation"
+  },
+  {
+    "objectID": "research.html#current-papers-projects",
+    "href": "research.html#current-papers-projects",
+    "title": "Rabea Hinsching",
+    "section": "Current Papers & Projects",
+    "text": "Current Papers & Projects\n\nThe Limits of Firm-Led Development: Evidence from South African Mining Communities\nDraft  Type: Work in Progress (Job Market Paper)\nAbstract: Firm-led development initiatives have become more prominent in recent years, yet evidence of their effectiveness remains limited. This paper evaluates the impact of mining companies’ local economic development programmes (LEDs), which aim to increase incomes and reduce poverty in host communities by promoting alternative livelihood strategies and entrepreneurship. I compile a novel LED project database and combine it with seven waves of geo-coded household data from South Africa’s Gauteng Province. Using an event-study framework, I compare outcomes in LED-receiving areas before and after project implementation. The results show persistent improvements in food security and reductions in poverty. However, effects on entrepreneurship are short-lived, while employment and incomes remain unchanged. The results are largely driven by alternative livelihood programmes, which support alternative income strategies such as home gardening. By contrast, business hubs designed to support local entrepreneurs show imprecise and non-robust effects. The results suggest that LEDs can reduce markers of absolute deprivation, yet fall short of delivering the fundamental change often envisioned by mining companies and policy frameworks.\n\n\nThe Political Economy of Corporate Social Investment: Evidence from Mining Communities in South Africa \nType: Work in Progress Abstract: Through Corporate Social Investment (CSI), large companies invest surrounding communities’ development, taking on responsibilities traditionally held by the state. This paper analyses if CSI affects citizens’ government perception and political behaviour and at the ward and municipal level. I focus on mining-related CSI in South Africa’s Gauteng Province, combining information on CSI projects with local election and household survey data. Using an event study framework, I examine how CSI affects political participation and incumbent electoral performance, as well as trust in government officials and community satisfaction. The results suggest that CSI projects increase voter turnout in both ward councillor and municipal council elections, as well as and community-level political participation. I find no evidence that CSI reduces government trust, satisfaction, or the incumbent party’s vote share. Together, these findings suggest that CSI can mobilise citizens to participate more actively in local politics without weakening citizen–state relations. \n\n\nCommunity Investment Tracker\nCSI Tracker | Dataset & Code  Status: Dataset / Data Visualisation Project\nAbstract: Structured dataset of mining companies’ CSI projects collected from corporate reports using a GPT-based extraction algorithm. Visualised in an online tracker to map investments, overlaps, and underserved areas."
+  },
+  {
+    "objectID": "tracker.html",
+    "href": "tracker.html",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "This tracker started as part of my PhD research, where I collected data on corporate social investment (CSI) projects by mining companies. I thought it could be useful beyond my own work to show where and when these investments took place.\nThe tracker covers Gauteng Province and records projects between 2009 and 2024. Beyond its usefulness for research, it may also be of interest to mining-affected communities, mining companies, and policymakers.\nIt can help identify project overlaps between different mining companies, spot which areas are currently or historically underserved, and highlight which project types dominate or are lacking. It can also be used to assess how well investments align with municipalities’ integrated development plans and to track which projects were delayed or abandoned.\nThe tracker is still in beta while I finalise the dataset and ensure everything is properly referenced. Right now it covers Gauteng Province, but I plan to expand to the North West and Free State, and maybe other countries in the future.\nFind the current version of the tracker here"
+  },
+  {
+    "objectID": "tracker.html#csi-tracker",
+    "href": "tracker.html#csi-tracker",
+    "title": "Rabea Hinsching",
+    "section": "",
+    "text": "This tracker started as part of my PhD research, where I collected data on corporate social investment (CSI) projects by mining companies. I thought it could be useful beyond my own work to show where and when these investments took place.\nThe tracker covers Gauteng Province and records projects between 2009 and 2024. Beyond its usefulness for research, it may also be of interest to mining-affected communities, mining companies, and policymakers.\nIt can help identify project overlaps between different mining companies, spot which areas are currently or historically underserved, and highlight which project types dominate or are lacking. It can also be used to assess how well investments align with municipalities’ integrated development plans and to track which projects were delayed or abandoned.\nThe tracker is still in beta while I finalise the dataset and ensure everything is properly referenced. Right now it covers Gauteng Province, but I plan to expand to the North West and Free State, and maybe other countries in the future.\nFind the current version of the tracker here"
+  }
+]

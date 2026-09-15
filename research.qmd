@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+## Research Interests 
+
+- Resource Economics  
+- Corporate Social Investment (CSI)  
+- Mining and Local Development  
+- Applied Econometrics  
+- Interdisciplinary Research  
+- Development Policy Evaluation  
+
+## Current Papers & Projects
+
+### The Limits of Firm-Led Development: Evidence from South African Mining Communities
+[Draft](https://drive.google.com/file/d/1vg9hlaebAvVU1tdhWlDQwkPkN83Vt6GG/view?usp=sharing) <br><br>
+**Type:** Work in Progress (Job Market Paper)  
+**Abstract:**  Firm-led development initiatives have become more prominent in recent years, yet evidence of their effectiveness remains limited. This paper evaluates the impact of mining companies’ local economic development programmes (LEDs), which aim to increase incomes and reduce poverty in host communities by promoting alternative livelihood strategies and entrepreneurship. I compile a novel LED project database and combine it with seven waves of geo-coded household data from South Africa’s Gauteng Province. Using an event-study framework, I compare outcomes in LED-receiving areas before and after project implementation. The results show persistent improvements in food security and reductions in poverty. However, effects on entrepreneurship are short-lived, while employment and incomes remain unchanged. The results are largely driven by alternative livelihood programmes, which support alternative income strategies such as home gardening. By contrast, business hubs designed to support local entrepreneurs show imprecise and non-robust effects. The results suggest that LEDs can reduce markers of absolute deprivation, yet fall short of delivering the fundamental change often envisioned by mining companies and policy frameworks.<br>
+
+### The Political Economy of Corporate Social Investment: Evidence from Mining Communities in South Africa <br>
+**Type:** Work in Progress
+**Abstract:**  Through Corporate Social Investment (CSI), large companies invest surrounding communities' development, taking on responsibilities traditionally held by the state. This paper analyses if CSI affects citizens' government perception and political behaviour and at the ward and municipal level. I focus on mining-related CSI in South Africa's Gauteng Province, combining information on CSI projects with local election and household survey data. Using an event study framework, I examine how CSI affects political participation and incumbent electoral performance, as well as trust in government officials and community satisfaction. The results suggest that CSI projects increase voter turnout in both ward councillor and municipal council elections, as well as and community-level political participation.  I find no evidence that CSI reduces government trust, satisfaction, or the incumbent party's vote share. Together, these findings suggest that CSI can mobilise citizens to participate more actively in local politics without weakening citizen–state relations. <br>
+
+
+### Community Investment Tracker
+[CSI Tracker](https://rhinsching.shinyapps.io/project_webpage/) | [Dataset & Code](https://github.com/rabeahinsching/CSI_Database) <br><br>
+**Status:** Dataset / Data Visualisation Project  
+**Abstract:** Structured dataset of mining companies’ CSI projects collected from corporate reports using a GPT-based extraction algorithm. Visualised in an online tracker to map investments, overlaps, and underserved areas.  
