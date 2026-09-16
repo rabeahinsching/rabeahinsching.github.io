@@ -2,19 +2,22 @@
 title: ""
 ---
 
-## Teaching
+## Teaching Experience
 
-I teach undergraduate and masters courses, and teach for the brilliant club, a charity etc etc. 
+<br>
 
-### Statistics Course I 
+##### **Teaching Assistant, University of East Anglia**
 
-Description here
+*March 2024 – present*
 
-### Statistics Course II
+I have teaching experience at both undergraduate and postgraduate level, including teaching *Applied Methods for Impact Evaluation* (PG) and *Economics and Statistics for Economists* (UG), as well as contributing to assessment and marking for *Environmental Economics* (UG) and *Behavioural Finance* (UG).
 
-Description here
+<br>
 
-### Work for the Brilliant Club
+##### **Tutor, The Brilliant Club**
 
-Description here. Coursebook here. 
+*September 2023 – May 2026*
 
+[The Brilliant Club](https://thebrilliantclub.org/) is a university-access charity that works with schools and PhD researchers to provide young people with university-style learning and support their progression to higher education. I delivered both pre-designed and independently developed courses through teaching placements at local secondary schools.
+
+My course, **“What’s the Business of the Business?”**, introduced students to questions around how businesses operate, the role of firms in society, and the economic and social consequences of business decisions.

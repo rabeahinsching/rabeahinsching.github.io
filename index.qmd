@@ -10,22 +10,21 @@ format: html
   
 <div>
 
-I am a PhD candidate in Economics at the University of East Anglia. My research focuses on corporate social responsibility in the mining sector, resource governance, and local development. You can find my CV <a href="https://drive.google.com/file/d/1v61DyO-syQIIijsDK8Muv5DFLRojgTmk/view?usp=sharing" target="_blank">here</a>.
+I am a PhD candidate in Economics at the University of East Anglia. My research is in applied microeconomics, with a focus on development, natural resources, and political economy. I am particularly interested in how firms, governments, and local institutions shape development outcomes, and how these processes affect communities. 
 
-I work primarily with quantitative methods, using quasi-experimental approaches to identify causal effects. However, I am also a strong proponent of interdisciplinary research. My work is often inspired by perspectives from sociology and political economy, particularly in understanding how local institutions, narratives, and power structures shape development outcomes.
+<!--My work is also informed by perspectives from sociology and political economy, especially in understanding the role of local institutions, narratives, and power structures.-->
 
-My job market paper examines the developmental impact of mining companies’ social investments in South Africa’s Gauteng Province. You can find the latest draft <a href="https://drive.google.com/file/d/1vg9hlaebAvVU1tdhWlDQwkPkN83Vt6GG/view?usp=sharing" target="_blank">here</a>.
+My job market paper examines the developmental impact of mining companies’ social investments in South Africa’s Gauteng Province. You can find the latest draft <a href="https://drive.google.com/file/d/1Su8FBmJKlBsRZP-Xc4hiRn4sGrQ9kLhz/view?usp=sharing" target="_blank">here</a>.
 
-As part of my research, I collected data on mining companies' social investments from corporate reports using a GPT-based algorithm. The code for the project is available on my <a href="https://github.com/rabeahinsching/CSI_Database" target="_blank">GitHub</a>. I am currently developing this dataset into a publicly accessible project tracker. An early version is available on this website under “CSI Tracker.”
+As part of my research, I collected data on mining companies' social investments from corporate reports using a GPT-based algorithm. The code for the project is available on my <a href="https://github.com/rabeahinsching/CSI_Database" target="_blank">GitHub</a>. I am currently developing this dataset into a publicly accessible project tracker. An early version is available on this website under “CSI Tracker”.
 
 ```{=html}
 <!-- **Research Interests:**
 
-- Resource economics
-- Corporate social investment
-- Mining and local development
-- Applied econometrics
-- Interdisciplinary research -->
+- Development Economics
+- Natural Resource Economics
+- Political Economy
+- Corporate Social Responsibility -->
 ```
 
 </div>

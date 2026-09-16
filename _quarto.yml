@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
       - href: cv.qmd
         text: CV
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: tracker.qmd
         text: CSI Tracker
     right:
@@ -20,7 +22,7 @@ website:
     - icon: linkedin
       href: https://www.linkedin.com/in/rabea-hinsching-03a186157
     - icon: envelope
-      href: mailto:rabea.hinsching@web.de
+      href: mailto:r.hinsching@uea.ac.uk
     
 format:
   html:

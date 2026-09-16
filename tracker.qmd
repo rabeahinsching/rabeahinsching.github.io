@@ -13,6 +13,6 @@ The tracker covers Gauteng Province and records projects between 2009 and 2024. 
 
 It can help identify project overlaps between different mining companies, spot which areas are currently or historically underserved, and highlight which project types dominate or are lacking. It can also be used to assess how well investments align with municipalities’ integrated development plans and to track which projects were delayed or abandoned.
 
-The tracker is still in beta while I finalise the dataset and ensure everything is properly referenced. Right now it covers Gauteng Province, but I plan to expand to the North West and Free State, and maybe other countries in the future.
+The tracker is still in beta while I finalise the dataset and ensure everything is properly referenced. Right now it covers Gauteng Province, but I plan to expand to the North West and Free State Province, and perhaps other countries in the future.
 
 **Find the current version of the tracker <a href="https://rhinsching.shinyapps.io/project_webpage/" target="_blank">here</a>**

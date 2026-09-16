@@ -5,8 +5,8 @@ format: html
 
 ## CV 
 
-You can view my CV below, or download it <a href="https://drive.google.com/file/d/1v61DyO-syQIIijsDK8Muv5DFLRojgTmk/view?usp=sharing" target="_blank">here</a>
+You can view my CV below, or download it <a href="https://drive.google.com/file/d/1ajn53IXcQc5fwlPlC_ZMb3M1qxAE3CmU/view?usp=sharing" target="_blank">here</a>
 
 <div style="margin-top:20px; margin-bottom:20px;">
-  <iframe src="cv_short.pdf" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>
+  <iframe src="CV_September2026.pdf" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>
 </div>

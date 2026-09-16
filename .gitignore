@@ -16,3 +16,6 @@ _site/
 CV_short.pdf
 WebsiteNames.rtf
 eco_sentences.txt
+
+/.quarto/
+**/*.quarto_ipynb
