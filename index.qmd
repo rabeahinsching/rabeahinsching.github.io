@@ -1,6 +1,9 @@
 ---
-title: ""
-format: html
+title: "Rabea Hinsching | PhD Candidate in Economics"
+description: "Rabea Hinsching is a PhD candidate in Economics at the University of East Anglia. Her research focuses on development, natural resources, and political economy."
+format:
+  html:
+    title-block: none
 ---
 
 ## About Me
