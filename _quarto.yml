@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Rabea Hinsching"
+  site-url: "https://rabeahinsching.github.io/"
+  description: "Academic website of Rabea Hinsching, PhD candidate in Economics at the University of East Anglia."
+  
   navbar:
     left:
       - href: index.qmd
