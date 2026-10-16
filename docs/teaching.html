@@ -145,23 +145,42 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="teaching-experience" class="level2">
+<section id="teaching-experience" class="level2 teaching-page">
 <h2 class="anchored" data-anchor-id="teaching-experience">Teaching Experience</h2>
 <p><br></p>
-<section id="teaching-assistant-university-of-east-anglia" class="level5">
+<div class="paper-container">
+<div class="paper-image">
+<p><img src="images/uea_logo.png" class="img-fluid" alt="Mining communities in South Africa"></p>
+</div>
+<section id="teaching-assistant-university-of-east-anglia" class="level5 paper-content">
 <h5 class="anchored" data-anchor-id="teaching-assistant-university-of-east-anglia"><strong>Teaching Assistant, University of East Anglia</strong></h5>
 <p><em>March 2024 – present</em></p>
+<details>
+<summary>
+Details
+</summary>
 <p>I have teaching experience at both undergraduate and postgraduate level, including teaching <em>Applied Methods for Impact Evaluation</em> (PG) and <em>Economics and Statistics for Economists</em> (UG), as well as contributing to assessment and marking for <em>Environmental Economics</em> (UG) and <em>Behavioural Finance</em> (UG).</p>
-<p><br></p>
+</details>
 </section>
-<section id="tutor-the-brilliant-club" class="level5">
+</div>
+<div class="paper-container">
+<div class="paper-image">
+<p><img src="images/brilliant_club_logo.png" class="img-fluid" alt="Mining communities in South Africa"></p>
+</div>
+<section id="tutor-the-brilliant-club" class="level5 paper-content">
 <h5 class="anchored" data-anchor-id="tutor-the-brilliant-club"><strong>Tutor, The Brilliant Club</strong></h5>
 <p><em>September 2023 – May 2026</em></p>
+<details>
+<summary>
+Details
+</summary>
 <p><a href="https://thebrilliantclub.org/">The Brilliant Club</a> is a university-access charity that works with schools and PhD researchers to provide young people with university-style learning and support their progression to higher education. I delivered both pre-designed and independently developed courses through teaching placements at local secondary schools.</p>
 <p>My course, <strong>“What’s the Business of the Business?”</strong>, introduced students to questions around how businesses operate, the role of firms in society, and the economic and social consequences of business decisions.</p>
-
-
+</details>
 </section>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -238,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/rabeahinsching\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

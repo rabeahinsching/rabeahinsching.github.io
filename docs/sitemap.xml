@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rabeahinsching.github.io/</loc>
-  </url>
-  <url>
     <loc>https://rabeahinsching.github.io/cv.html</loc>
+    <lastmod>2026-09-16T12:15:52.912Z</lastmod>
   </url>
   <url>
-    <loc>https://rabeahinsching.github.io/research.html</loc>
+    <loc>https://rabeahinsching.github.io/index.html</loc>
+    <lastmod>2026-10-16T12:51:04.116Z</lastmod>
   </url>
   <url>
     <loc>https://rabeahinsching.github.io/teaching.html</loc>
+    <lastmod>2026-10-16T12:40:41.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rabeahinsching.github.io/research.html</loc>
+    <lastmod>2026-10-15T11:07:44.404Z</lastmod>
   </url>
   <url>
     <loc>https://rabeahinsching.github.io/tracker.html</loc>
+    <lastmod>2026-10-16T12:41:41.175Z</lastmod>
   </url>
 </urlset>

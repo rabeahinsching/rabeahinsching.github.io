@@ -1,1 +1,113 @@
 /* css styles */
+.quarto-title-block {
+  display: none !important;
+}
+
+.paper-container {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+.paper-image {
+  flex: 0 0 35%;
+}
+
+.paper-image img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.paper-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.paper-content h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 768px) {
+  .paper-container {
+    flex-direction: column;
+  }
+
+  .paper-image {
+    width: 100%;
+  }
+
+  .paper-image img {
+    height: 220px;
+  }
+}
+
+.abstract-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.abstract-modal:target {
+  display: flex;
+}
+
+.abstract-content {
+  position: relative;
+  background: white;
+  padding: 35px;
+  max-width: 700px;
+  width: 100%;
+  max-height: 80vh;
+  overflow-y: auto;
+  border-radius: 8px;
+}
+
+.abstract-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 28px;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.abstract-close::after {
+  content: "×";
+}
+
+/* Teaching page: give the text more room */
+/* Teaching page layout */
+.teaching-page .paper-container {
+display: flex;
+align-items: flex-start;
+gap: 20px;
+}
+
+.teaching-page .paper-image {
+flex: 0 0 100px;
+width: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.teaching-page .paper-image img {
+max-width: 100%;
+height: auto;
+object-fit: contain;
+}
+
+.teaching-page .paper-content {
+flex: 1;
+min-width: 0;
+}

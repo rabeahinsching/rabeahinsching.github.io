@@ -9,11 +9,11 @@ format:
 ## About Me
 
 :::: {style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;"}
-<img src="images/me3.jpg" alt="Rabea Hinsching" style="width:280px; border-radius:12px;"/>
+<img src="images/me2.jpg" alt="Rabea Hinsching" style="width:280px; border-radius:12px;"/>
   
 <div>
 
-I am a PhD candidate in Economics at the University of East Anglia. My research is in applied microeconomics, with a focus on development, natural resources, and political economy. I am particularly interested in how firms, governments, and local institutions shape development outcomes, and how these processes affect communities. 
+I am a PhD candidate in Economics at the University of East Anglia. My research is in applied microeconomics, with a focus on development, natural resources, and political economy. I am particularly interested in the role of private companies in the international development sphere and how their actions shape local outcomes.
 
 <!--My work is also informed by perspectives from sociology and political economy, especially in understanding the role of local institutions, narratives, and power structures.-->
 

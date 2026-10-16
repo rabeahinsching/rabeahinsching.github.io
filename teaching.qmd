@@ -2,22 +2,57 @@
 title: ""
 ---
 
+::: {.teaching-page}
+
 ## Teaching Experience
 
 <br>
+
+::: {.paper-container}
+
+::: {.paper-image}
+![](images/uea_logo.png){fig-alt="Mining communities in South Africa"}
+:::
+
+::: {.paper-content}
 
 ##### **Teaching Assistant, University of East Anglia**
 
 *March 2024 – present*
 
+<details>
+<summary>Details</summary>
+
 I have teaching experience at both undergraduate and postgraduate level, including teaching *Applied Methods for Impact Evaluation* (PG) and *Economics and Statistics for Economists* (UG), as well as contributing to assessment and marking for *Environmental Economics* (UG) and *Behavioural Finance* (UG).
 
-<br>
+</details>
+
+:::
+
+:::
+
+::: {.paper-container}
+
+::: {.paper-image}
+![](images/brilliant_club_logo.png){fig-alt="Mining communities in South Africa"}
+:::
+
+::: {.paper-content}
 
 ##### **Tutor, The Brilliant Club**
 
 *September 2023 – May 2026*
 
+<details>
+<summary>Details</summary>
+
 [The Brilliant Club](https://thebrilliantclub.org/) is a university-access charity that works with schools and PhD researchers to provide young people with university-style learning and support their progression to higher education. I delivered both pre-designed and independently developed courses through teaching placements at local secondary schools.
 
 My course, **“What’s the Business of the Business?”**, introduced students to questions around how businesses operate, the role of firms in society, and the economic and social consequences of business decisions.
+
+</details>
+
+
+:::
+
+:::
